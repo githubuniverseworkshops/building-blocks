@@ -11,7 +11,7 @@
 # Building Blocks: Creating Your Own GitHub Actions With JavaScript
 
 ## Before we begin
-* **Required**: Sign up for GitHub. 😀
+* **Required**: Sign up for [GitHub](https://github.com/join?source=header-home). 😀
 * **Required**: Sign up for the [public beta](https://github.com/features/actions) of GitHub Actions. The account that you use for this should be the one you plan on using in the workshop.
 * **Helpful**: Familiarity with GitHub ([example training course](https://lab.github.com/githubtraining/introduction-to-github)), JavaScript, and GitHub Actions
 
