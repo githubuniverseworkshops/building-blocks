@@ -20,9 +20,8 @@
 Welcome! In this workshop, "Creating Your Own GitHub Actions With JavaScript", we'll be providing a conceptual overview of GitHub Actions and then making our very own Action using JavaScript. Follow along here, in the slides, or in person – however you learn best.
 
 ### Objectives
-* Learn about the key features of GitHub Actions, like the secret store and matrix builds
-* Learn about the difference between an action and a workflow
-* Learn how to find actions for your workflow
-* Build a JavaScript action
-* Learn about best practices for your action
+* Obtain a general understanding of GitHub Actions
+* Build a JavaScript action that wraps a GitHub API endpoint
+* Learn about tooling available to create a JavaScript action
+* Learn best practices for creating and maintaining GitHub Actions
 * Learn how to publish an action to the GitHub Marketplace
