@@ -1,4 +1,14 @@
-# Creating Your Own GitHub Actions With JavaScript
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/3791941/31036931-072760fe-a534-11e7-8cd7-0565bdc2727c.png" width="100" height="60">
+
+  <h3 align="center">Workshop: Building Blocks: Creating your own GitHub Actions with JavaScript<br></h3>
+
+  <p align="center">
+    <a href="https://githubuniverse.com/">Universe Program</a>
+  </p>
+</p>
+
+# Building Blocks: Creating Your Own GitHub Actions With JavaScript
 
 ## Before we begin
 * **Required**: Sign up for GitHub. 😀
