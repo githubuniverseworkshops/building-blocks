@@ -443,7 +443,6 @@ jobs:
 ### Questions
 - Q: When will there be support for GitHub Enterprise?
   - A: GitHub Enterprise Cloud is already available, and [GitHub Enterprise Server](https://github.com/enterprise) support is a priority for the engineering team. A specific release timeline is not currently available.
-- Q: How does billing work? 
 
 ## Resources
 
